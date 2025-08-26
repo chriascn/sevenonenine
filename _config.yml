@@ -2,3 +2,9 @@ title: House Rules
 remote_theme: just-the-docs/just-the-docs
 plugins:
 - jekyll-remote-theme
+
+defaults:
+  - scope:
+      path: "chinese_food"
+    values:
+      nav_exclude: true
