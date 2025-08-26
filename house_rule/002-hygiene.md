@@ -1,10 +1,10 @@
-1. **Indoor shoes are for indoor use only. Do not wear them outside the house.**
-Sandal dalam rumah hanya untuk di dalam rumah. Jangan memakainya di luar rumah.
+1. **Indoor shoes are for indoor use only. Do not wear them outside.**
+Sandal/sepatu rumah hanya untuk dipakai di dalam rumah. Jangan digunakan di luar rumah.
 
-2. **Do not step on the indoor rug with bare feet after stepping on the floor outside.**
-Jangan menginjak karpet di dalam rumah dengan kaki telanjang setelah menginjak lantai luar.
+2. **Do not step on the indoor rug barefoot after being outside.**
+Jangan menginjak karpet di dalam rumah dengan kaki telanjang setelah dari luar.
 
-3. **Do not put bags from outside on the kitchen or dining table tops. If you accidentally place a bag there, please wipe the surface immediately.**
+3. **Do not put bags from outside on kitchen or dining tables. If you accidentally place a bag there, please wipe the surface immediately.**
 Jangan meletakkan tas dari luar di atas meja dapur atau meja makan. Jika Anda tidak sengaja meletakkannya di sana, mohon segera lap permukaannya.
 
 4. **Use different chopping boards, knives, and bowls for raw ingredients (like meat and fish) and cooked food.**
@@ -14,14 +14,14 @@ Gunakan talenan, pisau, dan mangkuk yang berbeda untuk bahan mentah (seperti dag
 Gunakan spons cuci yang terpisah untuk membersihkan peralatan yang dipakai untuk bahan mentah, dan spons lain untuk peralatan yang dipakai untuk makanan matang.
 
 6. **Store all raw food in sealed containers, separate from cooked food.**
-Simpan semua bahan mentah dalam wadah tertutup, terpisah dari makanan matang.
+Simpan semua bahan mentah dalam wadah tertutup rapat, terpisah dari makanan matang.
 
-7. **You must wash your hands with hand sanitizer in the following situations:**
-Anda wajib mencuci tangan dengan hand sanitizer dalam situasi berikut:
+7. **You must sanitize your hands with hand sanitizer in the following situations:**
+Anda wajib menggunakan hand sanitizer dalam situasi berikut:
 - **Before washing dishes, cooking, or serving any food or water.**
 Sebelum mencuci piring, memasak, atau menyajikan makanan atau air.
-- **After going out and returning home.**
-Setelah keluar rumah dan kembali.
+- **Upon returning home from outside.**
+Setelah kembali dari luar.
 - **After using the toilet.**
 Setelah menggunakan toilet.
 - **After handling raw food.**

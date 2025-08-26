@@ -45,7 +45,16 @@ Fasilitas dasar: Kami akan menyediakan perlengkapan mandi dasar seperti sabun, s
 Sarapan: Contohnya, 4 potong roti dengan selai.
 - **Lunch & Dinner: For example, rice, cooked vegetables, a palm-sized portion of meat (fish/chicken/beef/etc.).**
 Makan siang dan makan malam: Contohnya, nasi, sayuran matang, sepotong daging seukuran telapak tangan (ikan/ayam/sapi, dll.).
+- **Let us know in advance if you are running out of any supplies listed above**
+Mohon beri tahu kami jika ada persediaan di atas yang akan habis.
 - **Mandatory Insurance & Check-ups: We will provide your medical and personal accident insurance, and arrange your six-monthly medical check-ups.**
 Asuransi dan pemeriksaan wajib: Kami akan menyediakan asuransi kesehatan dan kecelakaan diri Anda, serta mengatur pemeriksaan kesehatan enam bulanan.
 - **Any requests for other items beyond the above list, such as snacks or personal goods, will be considered on a case-by-case basis. We have the right to decide whether we will fulfill the request or not. For any items or preferred brands beyond what is provided, you are welcome to buy them yourself.**
 Setiap permintaan untuk barang lain di luar daftar di atas, seperti makanan ringan atau barang pribadi, akan dipertimbangkan secara kasus per kasus. Kami berhak memutuskan apakah akan memenuhi permintaan tersebut atau tidak. Untuk barang atau merek yang Anda sukai di luar yang sudah disediakan, Anda dipersilakan untuk membelinya sendiri.
+
+13. **We will not confiscate your phone, but please use it responsibly. Do not post photos, videos, or any information about our family or home on social media, or share such information with others, including during video calls in family areas of the house.**
+Kami tidak akan menyita ponsel Anda, tetapi mohon gunakan dengan bijak. Jangan mengunggah foto, video, atau informasi apa pun tentang keluarga atau rumah kami di media sosial, atau membagikan informasi tersebut kepada orang lain, termasuk saat melakukan panggilan video di area keluarga di dalam rumah.
+- **Keep your voice low during phone and video calls; do not hold or use your phone while working.**
+Jaga suara tetap pelan saat melakukan panggilan telepon atau video; jangan memegang atau menggunakan ponsel saat bekerja.
+- **Do not use your phone late at night to scroll or watch videos.**
+Jangan menggunakan ponsel larut malam untuk menggulir atau menonton video.
