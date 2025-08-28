@@ -54,7 +54,7 @@ Setiap permintaan untuk barang lain di luar daftar di atas, seperti makanan ring
 
 13. **We will not confiscate your phone, but please use it responsibly. Do not post photos, videos, or any information about our family or home on social media, or share such information with others, including during video calls in family areas of the house.**
 Kami tidak akan menyita ponsel Anda, tetapi mohon gunakan dengan bijak. Jangan mengunggah foto, video, atau informasi apa pun tentang keluarga atau rumah kami di media sosial, atau membagikan informasi tersebut kepada orang lain, termasuk saat melakukan panggilan video di area keluarga di dalam rumah.
-- **Keep your voice low during phone and video calls; do not hold or use your phone while working.**
-Jaga suara tetap pelan saat melakukan panggilan telepon atau video; jangan memegang atau menggunakan ponsel saat bekerja.
+- **Keep your voice low during phone and video calls, especially when we are at home; do not hold or use your phone while working.**
+Jaga suara tetap pelan saat melakukan panggilan telepon atau video, terutama ketika kami berada di rumah; jangan memegang atau menggunakan ponsel saat bekerja.
 - **Do not use your phone late at night to scroll or watch videos.**
 Jangan menggunakan ponsel larut malam untuk menggulir atau menonton video.
